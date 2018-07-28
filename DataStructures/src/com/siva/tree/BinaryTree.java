@@ -1,6 +1,11 @@
 package com.siva.tree;
 
+import java.util.Map;
+import java.util.TreeMap;
+
 public class BinaryTree {
+	
+	Map<Integer, String> map = new TreeMap<>();
 
 	Node root;
 

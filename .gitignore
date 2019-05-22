@@ -1,10 +1,9 @@
-/target/
-/.gradle/
-
-
-HELP.md
-.gradle
 *.class
 **/bin
 **/build
+**/target
+
+/.gradle/
+HELP.md
+.gradle
 !gradle/wrapper/gradle-wrapper.jar

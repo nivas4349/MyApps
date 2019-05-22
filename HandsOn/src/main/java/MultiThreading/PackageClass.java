@@ -1,6 +1,8 @@
 package src.main.java.MultiThreading;
 
-class PackageClass {
+import src.main.java.MultiThreading.subPackage.*;
+
+public class PackageClass {
 	public static void main(String args[]) {
 		SubPackageClass sc = new SubPackageClass();
 	}

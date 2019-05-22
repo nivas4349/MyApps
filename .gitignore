@@ -1,0 +1,10 @@
+/target/
+/.gradle/
+
+
+HELP.md
+.gradle
+*.class
+**/bin
+**/build
+!gradle/wrapper/gradle-wrapper.jar

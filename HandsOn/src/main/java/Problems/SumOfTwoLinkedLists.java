@@ -5,7 +5,6 @@ import src.main.java.Problems.resources.ListNode;
 public class SumOfTwoLinkedLists {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
 	}
 

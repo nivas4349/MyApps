@@ -7,13 +7,11 @@ public class MainClass {
 
 			@Override
 			int someOtherMethod() {
-				// TODO Auto-generated method stub
 				return 0;
 			}
 
 			@Override
 			int someMethod() {
-				// TODO Auto-generated method stub
 				return 0;
 			}
 		};

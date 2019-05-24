@@ -11,13 +11,11 @@ public class AnotherMainClass extends AbstractClass {
 
 	@Override
 	int someMethod() {
-		// TODO Auto-generated method stub
 		return 2;
 	}
 
 	@Override
 	int someOtherMethod() {
-		// TODO Auto-generated method stub
 		return 3;
 	}
 

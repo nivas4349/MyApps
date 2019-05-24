@@ -1,4 +1,4 @@
-package com.siva.cricketcards.dto;
+package com.siva.cricketcards.client.dto;
 
 import javax.validation.constraints.NotNull;
 

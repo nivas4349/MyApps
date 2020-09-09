@@ -50,5 +50,7 @@ public class ListHandsOn {
 		}
 
 		System.out.println("AFTER REMOVE: " + nums);
+		
+		int[] a= new int[10];
 	}
 }

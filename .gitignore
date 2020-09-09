@@ -4,6 +4,11 @@
 **/target
 
 /.gradle/
+.metadata
 HELP.md
 .gradle
 !gradle/wrapper/gradle-wrapper.jar
+
+**/.settings
+**/.classpath
+**/*.jar

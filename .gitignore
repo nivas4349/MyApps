@@ -11,4 +11,5 @@ HELP.md
 
 **/.settings
 **/.classpath
+**/.project
 **/*.jar

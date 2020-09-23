@@ -13,3 +13,5 @@ HELP.md
 **/.classpath
 **/.project
 **/*.jar
+/Java JDK src/
+/java-challenge-siva/

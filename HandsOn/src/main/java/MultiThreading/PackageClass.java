@@ -1,6 +1,6 @@
-package src.main.java.MultiThreading;
+package multithreading;
 
-import src.main.java.MultiThreading.subPackage.*;
+import multithreading.subpackage.SubPackageClass;
 
 public class PackageClass {
 	public static void main(String args[]) {

@@ -1,4 +1,4 @@
-package src.main.java.Abstraction;
+package abstraction;
 
 public class MainClass {
 
@@ -13,6 +13,18 @@ public class MainClass {
 			@Override
 			int someMethod() {
 				return 0;
+			}
+
+			@Override
+			public void abstractMethod() {
+				// TODO Auto-generated method stub
+				
+			}
+
+			@Override
+			protected char[] anotherMethod() {
+				// TODO Auto-generated method stub
+				return null;
 			}
 		};
 		System.out.println(ab.anotherMethod());

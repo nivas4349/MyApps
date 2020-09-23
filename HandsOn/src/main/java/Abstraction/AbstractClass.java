@@ -1,12 +1,21 @@
-package src.main.java.Abstraction;
+package abstraction;
 
+/**
+ * @author: Siva Srinivasa Pasam
+ *
+ */
 public abstract class AbstractClass {
+	public abstract void abstractMethod();
 
-	abstract int someMethod();
-
-	abstract int someOtherMethod();
-
-	int anotherMethod() {
-		return 1;
+	int someMethod() {
+		// TODO Auto-generated method stub
+		return 0;
 	}
+
+	int someOtherMethod() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	protected abstract char[] anotherMethod();
 }
